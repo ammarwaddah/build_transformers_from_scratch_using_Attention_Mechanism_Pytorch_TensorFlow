@@ -1,0 +1,2 @@
+All of the implementations are random numbers generate using random methods. But the implements of transformers from scratch uses:
+[TFDS](https://www.tensorflow.org/datasets) to load the [Portugese-English translation dataset](https://github.com/neulab/word-embeddings-for-nmt) from the [TED Talks Open Translation Project](https://www.ted.com/participate/translate).
